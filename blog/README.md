@@ -1,2 +1,0 @@
-# jcb
-Jolla Community Blog
